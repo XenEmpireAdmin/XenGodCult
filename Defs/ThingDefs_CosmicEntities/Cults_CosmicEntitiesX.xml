@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<ThingDef Class="CultOfCthulhu.CosmicEntityDef">
+	<defName>Entity_Xen</defName>
+    <thingClass>CultOfCthulhu.CosmicEntity</thingClass>	
+	<label>Xen</label>
+	<version>5</version>
+	<description>He who alters the world at whim.</description>
+    <symbol>Mote/Symbols/Xen</symbol>	
+	<tier1SpellDefs>
+		<li>SpellOrbitalInsanityX</li>	
+		<li>SpellAspectOfXen</li>
+		<li>SpellSunkenShipX</li>
+		<li>SpellTreasuresOfTheDeepX</li>
+		<li>SpellMotherOfGoatsX</li>
+		<li>SpellStarryWisdomX</li>
+		<li>SpellForbiddenKnowledgeX</li>	
+		<li>SpellTheKingInYellowX</li>
+		<li>SpellSummonByakheeX</li>	
+	</tier1SpellDefs>
+	<tier2SpellDefs>
+		<li>SpellPsionicGrowthX</li>
+		<li>SpellDefendTheBroodX</li>
+		<li>SpellChaosTheoryX</li>
+	</tier2SpellDefs>
+	<tier3SpellDefs>
+		<li>SpellTerrestrialInsanityX</li>
+		<li>SpellBountyOfTheSeaX</li>
+		<li>SpellWombBetweenWorldsX</li>
+		<li>SpellDarkEmissaryX</li>
+		<li>SpellUnspeakableOathX</li>
+	</tier3SpellDefs>
+	<favoredApparel>
+		<li>Xen_Pants</li>
+	</favoredApparel>
+</ThingDef>
+
+</Defs>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ResearchProjectDefs>
+  
+  <ResearchProjectDef ParentName="ForbiddenKnowledgeResearch">
+    <defName>Forbidden_LoreX</defName>
+    <label>[Occult] Study successful cults -Large-</label>
+    <description>Repeatable research to improve the researcher's cult mindedness and social skills during the research process.\n\nThis research is recommended for pawns looking to become preachers.</description>
+    <baseCost>10000</baseCost>
+	<prerequisites>
+	<li>Forbidden_Studies</li>
+	</prerequisites>
+	<requiredResearchBuilding>ForbiddenKnowledgeCenter</requiredResearchBuilding>
+  </ResearchProjectDef>  
+  
+</ResearchProjectDefs>
